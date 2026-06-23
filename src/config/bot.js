@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Bangkok Suvarnabhumi International Airport ✈️",
+        name: "BKK Suvarnabhumi International Airport ✈️",
         // Activity type number (0 = Playing).
         type: 3,
       },
@@ -72,13 +72,13 @@ export const botConfig = {
     },
 
     // How long users must wait before submitting another application (hours).
-    applicationCooldown: 24,
+    applicationCooldown: 6,
 
     // Auto-delete denied applications after this many days.
     deleteDeniedAfter: 7,
 
     // Auto-delete approved applications after this many days.
-    deleteApprovedAfter: 30,
+    deleteApprovedAfter: 365,
 
     // Role IDs allowed to manage applications.
     managerRoles: [], // Will be populated from environment or database
@@ -95,10 +95,10 @@ export const botConfig = {
       secondary: "#2F3136",
 
       // Standard status colors for success/error/warning/info messages.
-      success: "#57F287",
+      success: "#9400d3",
       error: "#ED4245",
       warning: "#FEE75C",
-      info: "#3498DB",
+      info: "#9400d3",
 
       // Neutral utility colors.
       light: "#FFFFFF",
@@ -139,9 +139,9 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "THAI AIRWAYS VA Bot",
       // Footer icon URL (null = no icon).
-      icon: null,
+      icon: https://cdn.discordapp.com/attachments/1475101299438522453/1518900022429745223/image.png?ex=6a3b9961&is=6a3a47e1&hm=dabbcdcc7e69669476aeac2d5f597200802c3c12f239af206732f9599817d507&,
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
     thumbnail: null,
