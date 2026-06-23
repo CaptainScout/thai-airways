@@ -141,7 +141,7 @@ export const botConfig = {
       // Default footer text used in bot embeds.
       text: "THAI AIRWAYS VA Bot",
       // Footer icon URL (null = no icon).
-      icon: "https://cdn.discordapp.com/attachments/1475101299438522453/1518900022429745223/image.png?ex=6a3b9961&is=6a3a47e1&hm=dabbcdcc7e69669476aeac2d5f597200802c3c12f239af206732f9599817d507&"
+      icon: "https://cdn.discordapp.com/attachments/1475101299438522453/1518900022429745223/image.png?ex=6a3b9961&is=6a3a47e1&hm=dabbcdcc7e69669476aeac2d5f597200802c3c12f239af206732f9599817d507&",
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
     thumbnail: null,
